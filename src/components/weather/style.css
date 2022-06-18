@@ -37,7 +37,7 @@ body {
 .widget {
   display: flex;
   height: 400px;
-  width: 650px;
+  width: 900px;
   flex-wrap: wrap;
   cursor: pointer;
   border-radius: 20px;
@@ -49,7 +49,7 @@ body {
   height: 50%;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
-  background: #b8d6ee;
+  background: #f1e571;
   font-family: weathericons;
   display: flex;
   align-items: center;
@@ -107,7 +107,7 @@ body {
   padding: 5% 0;
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
-  background: #aab5e2;
+  background: #f0b776;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
